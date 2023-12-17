@@ -1,0 +1,584 @@
+.contacts-container {
+  width: 100%;
+  display: flex;
+  overflow: auto;
+  min-height: 100vh;
+  align-items: center;
+  flex-direction: column;
+  justify-content: center;
+}
+.contacts-frame {
+  width: 100%;
+  height: 1492px;
+  display: flex;
+  overflow: hidden;
+  position: relative;
+  align-self: center;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: rgba(255, 255, 255, 1);
+}
+.contacts-header {
+  top: 0px;
+  left: 0px;
+  right: 0px;
+  width: 1536px;
+  height: 80px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 0;
+  justify-content: center;
+  background-color: #4A4A4A;
+}
+.contacts-text {
+  top: 15px;
+  left: 125.86666870117188px;
+  color: rgba(255, 255, 255, 1);
+  width: 131px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contacts-navlink {
+  display: contents;
+}
+.contacts-text02 {
+  top: 30px;
+  left: 387px;
+  color: rgba(255, 255, 255, 1);
+  width: 90px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  font-stretch: normal;
+}
+.contacts-navlink1 {
+  display: contents;
+}
+.contacts-text04 {
+  top: 29px;
+  left: 540.60009765625px;
+  color: rgba(255, 255, 255, 1);
+  width: 103px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  font-stretch: normal;
+}
+.contacts-text06 {
+  top: 30px;
+  left: 708.066650390625px;
+  color: rgba(255, 255, 255, 1);
+  width: 97px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  font-stretch: normal;
+}
+.contacts-navlink2 {
+  display: contents;
+}
+.contacts-text08 {
+  top: 30px;
+  left: 869.13330078125px;
+  color: rgba(255, 255, 255, 1);
+  width: 102px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contacts-button1 {
+  top: 18px;
+  left: 1102px;
+  width: 322px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(217, 217, 217, 1);
+}
+.contacts-text10 {
+  top: 10px;
+  left: 69.76652526855469px;
+  color: rgba(0, 0, 0, 1);
+  width: 182px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  font-stretch: normal;
+}
+.contacts-text12 {
+  top: 180px;
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  right: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  text-align: center;
+  font-stretch: normal;
+}
+.contacts-text14 {
+  top: 280px;
+  left: 0px;
+  color: rgba(0, 0, 0, 1);
+  right: 0px;
+  height: auto;
+  margin: auto;
+  position: absolute;
+  text-align: center;
+  font-stretch: normal;
+}
+.contacts-container1 {
+  top: 415px;
+  left: 0px;
+  width: 889px;
+  height: 640px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  background-color: #E9E9E9;
+}
+.contacts-icon2 {
+  top: 190px;
+  left: 125px;
+  width: 36px;
+  height: 36px;
+  position: absolute;
+}
+.contacts-text16 {
+  top: 198px;
+  left: 191px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  font-stretch: normal;
+}
+.contacts-text18 {
+  top: 233px;
+  left: 191px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  font-stretch: normal;
+}
+.contacts-text20 {
+  top: 159px;
+  left: 191px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  font-stretch: normal;
+}
+.contacts-text22 {
+  left: 191px;
+  color: rgba(0, 0, 0, 1);
+  bottom: 280.6499996185303px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  font-stretch: normal;
+}
+.contacts-text24 {
+  top: 296px;
+  left: 191px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  font-stretch: normal;
+}
+.contacts-icon3 {
+  top: 313px;
+  left: 125px;
+  width: 36px;
+  height: 27px;
+  position: absolute;
+}
+.contacts-icon4 {
+  left: 125px;
+  width: 36px;
+  bottom: 212px;
+  height: 36px;
+  position: absolute;
+}
+.contacts-text26 {
+  left: 191px;
+  color: rgba(0, 0, 0, 1);
+  bottom: 212.64999961853027px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  font-stretch: normal;
+}
+.contacts-icon7 {
+  left: 125px;
+  width: 36px;
+  bottom: 56px;
+  height: 40px;
+  position: absolute;
+}
+.contacts-text28 {
+  left: 191px;
+  color: rgba(0, 0, 0, 1);
+  bottom: 58.64999961853027px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  font-stretch: normal;
+}
+.contacts-icon5 {
+  left: 125px;
+  width: 36px;
+  bottom: 160px;
+  height: 36px;
+  position: absolute;
+}
+.contacts-text30 {
+  left: 191px;
+  color: rgba(0, 0, 0, 1);
+  bottom: 160.64999961853027px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  font-stretch: normal;
+}
+.contacts-icon6 {
+  left: 125px;
+  width: 36px;
+  bottom: 112px;
+  height: 32px;
+  position: absolute;
+}
+.contacts-text32 {
+  left: 191px;
+  color: rgba(0, 0, 0, 1);
+  bottom: 111.64999961853027px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  font-stretch: normal;
+}
+.contacts-text34 {
+  top: 96px;
+  left: 191px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  font-stretch: normal;
+}
+.contacts-text36 {
+  top: 57px;
+  left: 191px;
+  color: rgba(0, 0, 0, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  font-stretch: normal;
+}
+.contacts-icon1 {
+  top: 66px;
+  left: 125px;
+  width: 31px;
+  height: 45px;
+  position: absolute;
+}
+.contacts-image1 {
+  top: 485px;
+  left: 756px;
+  width: 782px;
+  height: 501px;
+  position: absolute;
+}
+.contacts-footer {
+  flex: 1;
+  left: 0px;
+  width: 100%;
+  bottom: 0px;
+  height: 281px;
+  margin: auto;
+  display: flex;
+  position: absolute;
+  flex-wrap: wrap;
+  align-self: stretch;
+  flex-shrink: 0;
+  flex-direction: row;
+  justify-content: center;
+  background-color: #4A4A4A;
+}
+.contacts-stroke4 {
+  top: 226.5px;
+  left: 0px;
+  right: 0px;
+  width: 100%;
+  height: 1px;
+  margin: auto;
+  position: absolute;
+  border-color: #ffffff;
+  border-style: solid;
+  border-width: 1px;
+}
+.contacts-text38 {
+  left: 653px;
+  color: rgba(255, 255, 255, 1);
+  bottom: 18px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  font-stretch: normal;
+}
+.contacts-button9 {
+  top: 109px;
+  right: 118px;
+  width: 389px;
+  height: 44px;
+  display: flex;
+  position: absolute;
+  align-items: flex-start;
+  flex-shrink: 1;
+  background-color: rgba(249, 249, 249, 1);
+}
+.contacts-text40 {
+  top: 10px;
+  left: 84.28331756591797px;
+  color: rgba(0, 0, 0, 1);
+  width: 220px;
+  height: auto;
+  position: absolute;
+  text-align: center;
+  font-stretch: normal;
+}
+.contacts-navlink3 {
+  display: contents;
+}
+.contacts-text42 {
+  top: 63px;
+  left: 1340px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contacts-text43 {
+  top: 63px;
+  left: 1229px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  font-stretch: normal;
+}
+.contacts-navlink4 {
+  display: contents;
+}
+.contacts-text45 {
+  top: 63px;
+  left: 1123px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contacts-navlink5 {
+  display: contents;
+}
+.contacts-text47 {
+  top: 63px;
+  left: 1028px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  text-align: left;
+  font-stretch: normal;
+  text-decoration: none;
+}
+.contacts-img12 {
+  top: 106px;
+  left: 838px;
+  width: 42px;
+  height: 42px;
+  position: absolute;
+}
+.contacts-img11 {
+  top: 106px;
+  left: 780px;
+  width: 42px;
+  height: 42px;
+  position: absolute;
+}
+.contacts-img10 {
+  top: 105px;
+  left: 720px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+}
+.contacts-img9 {
+  top: 105px;
+  left: 660px;
+  width: 44px;
+  height: 44px;
+  position: absolute;
+}
+.contacts-text49 {
+  top: 63px;
+  left: 628px;
+  color: rgba(255, 255, 255, 1);
+  height: auto;
+  position: absolute;
+  text-align: center;
+  font-stretch: normal;
+}
+.contacts-text51 {
+  top: 97px;
+  left: 115px;
+  color: rgba(255, 255, 255, 1);
+  width: 405px;
+  height: auto;
+  position: absolute;
+  text-align: left;
+  font-stretch: normal;
+}
+.contacts-text53 {
+  top: 36px;
+  left: 115px;
+  color: rgba(255, 255, 255, 1);
+  width: 124px;
+  height: auto;
+  position: absolute;
+  font-size: 40px;
+  font-style: Bold;
+  text-align: left;
+  font-family: Montserrat;
+  font-weight: 700;
+  line-height: normal;
+  font-stretch: normal;
+  text-decoration: none;
+}
+@media(max-width: 1080px) {
+  .contacts-header {
+    width: 1080px;
+    background-color: #4A4A4A;
+  }
+  .contacts-button1 {
+    display: none;
+  }
+  .contacts-text12 {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+  }
+  .contacts-image1 {
+    top: 514px;
+    left: 680px;
+    width: 864px;
+    margin: auto;
+  }
+  .contacts-footer {
+    right: 0px;
+    bottom: 0px;
+    height: 316px;
+    margin: auto;
+  }
+  .contacts-stroke4 {
+    top: 256px;
+    right: -6px;
+  }
+  .contacts-text38 {
+    left: 0px;
+    right: 0px;
+    margin: auto;
+    text-align: center;
+  }
+  .contacts-button9 {
+    top: -231px;
+    right: -793px;
+    justify-content: flex-end;
+  }
+  .contacts-text42 {
+    top: 203px;
+    left: 740px;
+    color: rgb(255, 255, 255);
+    right: 0px;
+    width: 90px;
+    height: auto;
+    margin: auto;
+    font-size: 18px;
+    font-family: Montserrat;
+    font-weight: 400;
+    line-height: normal;
+    text-decoration: none;
+  }
+  .contacts-text43 {
+    top: 204px;
+    left: 616px;
+    width: auto;
+    height: auto;
+    margin: auto;
+    text-align: center;
+  }
+  .contacts-text45 {
+    top: 203px;
+    left: 344px;
+    width: auto;
+    height: auto;
+    margin: auto;
+  }
+  .contacts-text47 {
+    top: 203px;
+    left: 113px;
+    width: auto;
+    height: auto;
+    margin: auto;
+  }
+  .contacts-img12 {
+    top: 107px;
+    left: 879px;
+  }
+  .contacts-img11 {
+    top: 107px;
+    left: 821px;
+  }
+  .contacts-img10 {
+    top: 106px;
+    left: 761px;
+  }
+  .contacts-img9 {
+    top: 106px;
+    left: 701px;
+  }
+  .contacts-text49 {
+    top: 64px;
+    left: 669px;
+  }
+  .contacts-text51 {
+    top: 87px;
+    left: 117px;
+    width: 450px;
+  }
+  .contacts-text53 {
+    top: 33px;
+    left: 121px;
+  }
+}
